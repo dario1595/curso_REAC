@@ -1,0 +1,8 @@
+Que es react?
+- Es una libreria creada y mantenida por facebook
+- Se utiliza para crear interfaces graficas
+- Es una libreria declarativa (no es necesario actualizar la interfaz grafica)
+- Es SIMPLE (contiene poco elementos)
+- Soporta renderizado en el servidor
+- Se puede extender facilmente
+- Esta basada en componentes
